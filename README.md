@@ -23,7 +23,7 @@ Here are some of the rules for writing H5Site (responsive website).
 
 ##Rules
 
-1、模版引用 csstoolkits.css，normalize.css,font-awesome.css
+1、模版引用 csstoolkits.css [GitHub](http://github.com/bairongsoft/csstoolkits)，normalize.css,font-awesome.css
 
 2、模版中类名命名的时候全局唯加前缀 jo- 
 
