@@ -23,12 +23,12 @@ Here are some of the rules for writing H5Site (responsive website).
 
 ##Rules
 
-1、模版引用 [csstoolkits.css In GitHub](http://github.com/bairongsoft/csstoolkits)，normalize.css,font-awesome.css
+1.模版引用 [csstoolkits.css In GitHub](http://github.com/bairongsoft/csstoolkits)，normalize.css,font-awesome.css
 
-2、模版中类名命名的时候全局唯加前缀 jo- 
+2.模版中类名命名的时候全局唯加前缀 jo- 
 
-3、写HTML时板块区分明确，以保证写stl标签效率。
+3.写HTML时板块区分明确，以保证写stl标签效率。
 
-4、样式使用LESS编写，编辑器推荐HBUILDER ,时时自动编译less文件
+4.样式使用LESS编写，编辑器推荐HBUILDER ,时时自动编译less文件
 
-5、尽量使用CSStoolkits里面的现成样式，以保证样式利用率。
+5.尽量使用CSStoolkits里面的现成样式，以保证样式利用率。
