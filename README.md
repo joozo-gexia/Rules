@@ -30,7 +30,7 @@ Here are some of the rules for writing H5Site (responsive website).
 --images
 --index.html
 
-####jo.css code comm （Note http://Git.hub is a local address.）
+####jo.css code （Note: http://Git.hub is a local address.）
 ```html
 @charset 'UTF-8';
 @import url('http://git.hub/node_modules/font-awesome/css/font-awesome.min.css');
