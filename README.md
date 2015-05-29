@@ -23,12 +23,12 @@ Here are some of the rules for writing H5Site (responsive website).
 
 ###HTML 结构
 ```html
--gx-nike
---css
+-gx-nike（Folder）
+--css（Folder）
 ---jo.css
 ---index.less
 ---index.css
---images
+--images（Folder）
 --index.html
 ```
 
