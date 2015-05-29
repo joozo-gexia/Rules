@@ -21,6 +21,26 @@ Here are some of the rules for writing H5Site (responsive website).
 		}
 	}
 
+###HTML 结构
+-gx-nike
+--css
+---jo.css
+---index.less
+---index.css
+--images
+--index.html
+
+####jo.css code comm （Note http://Git.hub is a local address.）
+```html
+@charset 'UTF-8';
+@import url('http://git.hub/node_modules/font-awesome/css/font-awesome.min.css');
+@import url('http://git.hub/node_modules/normalize.css/normalize.css');
+@import url('http://git.hub/csstoolkits/css/ct.min.css');
+/*Local Doc*/
+@import url('index.css');
+```
+
+
 ##Rules
 
 1.模版引用 [csstoolkits.css In GitHub](http://github.com/bairongsoft/csstoolkits)，normalize.css,font-awesome.css
@@ -32,3 +52,5 @@ Here are some of the rules for writing H5Site (responsive website).
 4.样式使用LESS编写，编辑器推荐HBUILDER ,时时自动编译less文件
 
 5.尽量使用CSStoolkits里面的现成样式，以保证样式利用率。
+
+
