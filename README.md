@@ -22,6 +22,7 @@ Here are some of the rules for writing H5Site (responsive website).
 	}
 
 ###HTML 结构
+```html
 -gx-nike
 --css
 ---jo.css
@@ -29,6 +30,7 @@ Here are some of the rules for writing H5Site (responsive website).
 ---index.css
 --images
 --index.html
+```
 
 ####jo.css code （Note: http://Git.hub is a local address.）
 ```html
