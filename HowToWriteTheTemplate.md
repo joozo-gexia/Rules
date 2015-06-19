@@ -5,7 +5,11 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
-    <title> [标题随意] </title>
+    <title> 模版-｛%name%｝</title>
+    <link href="http://cdn.bootcss.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="http://cdn.bootcss.com/normalize/3.0.3/normalize.min.css" rel="stylesheet">
+    <link href="http://ct.gexia.com/css/ct.min.css" rel="stylesheet">
+    <!--上面3个文件直接使用外连接即可-->
     <link href="css/docs.css" rel="stylesheet">
   </head>
   <body>
@@ -33,7 +37,10 @@
 
 # docs.less[docs.css] 样式表示例
 > less嵌套不要超过三层
+
 > 模板新创建的类名都以 .mo-
+
+* * *
 
 ```css
 @charset 'UTF-8';
