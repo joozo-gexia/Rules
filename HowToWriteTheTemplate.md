@@ -130,7 +130,7 @@
 /*第二部分 结束*/
 ```
 
-# CSSS标准命名示例
+# CSS标准命名示例
 ```html
 <div class="mo-container">
   头：header　　 
@@ -141,7 +141,8 @@
   栏目：column　　 
   布局宽度：wrapper　　 
   左右中：left right center　　 
-  登录条：loginbar　　 
+  登录条：loginbar　
+  
   标志：logo　　 
   抽奖：raffle
   广告：banner　　 
@@ -170,6 +171,7 @@
   状态态：status 
   投票：vote 
   合作伙伴：partner 
+  
   导航：nav 
   主导航：mainbav 
   子导航：subnav 
@@ -185,6 +187,7 @@
   广告：banner 
   登陆：login 
   登录条：loginbar 
+  
   注册：regsiter 
   搜索：search 
   功能区：shop 
